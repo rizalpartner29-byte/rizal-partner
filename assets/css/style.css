@@ -1154,3 +1154,16 @@ justify-content:center;
     border-top: 1px solid rgba(255,255,255,.15);
     color: #aaa;
 }
+
+.promo-poster {
+    padding: 60px 20px;
+    text-align: center;
+    background: #f8f8f8;
+}
+
+.promo-poster img {
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
