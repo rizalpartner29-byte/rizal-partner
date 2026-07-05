@@ -1163,7 +1163,13 @@ justify-content:center;
 
 .promo-poster img {
     width: 100%;
-    max-width: 1000px;
+    max-width: 900px;
     border-radius: 15px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    box-shadow: 0 10px 30px rgba(0,0,0,.2);
+}
+
+.promo-poster{
+    padding:70px 20px;
+    text-align:center;
+    
 }
